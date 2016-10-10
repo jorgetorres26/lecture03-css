@@ -8,3 +8,8 @@ h2 {
   height:200px;
   background-color: mediumseagreen;
 }
+
+body {
+    /* preferred fonts, in order, then fallbacks */
+    font-family: Lato, 'Helvetica Nue', Helvetica, sans-serif;
+}
